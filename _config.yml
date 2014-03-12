@@ -1,0 +1,5 @@
+name: Chuachua1080 New Jekyll Site
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title.html
+
